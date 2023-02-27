@@ -19,7 +19,7 @@ chapters = [['Survivorship Bias', [45, 49, 28, 31, 26, 94, 98]],
             ['Chauffeur Knowledge', [9, 76, 57]], 
             ['Illusion Of Control', [24, 26, 40, 94, 3, 67]], 
             ['Incentive Super-Response Tendency', [56, 6, 15]], 
-            ['Regression To Mean', [55, 10, 12, 24, 29]]
+            ['Regression To Mean', [55, 10, 12, 24, 29]],
             ['Outcome Bias', [5, 2, 14, 94]],
             ['The Paradox of Choice', [53, 71, 81]],
             ['Liking Bias', [6, 87]],
