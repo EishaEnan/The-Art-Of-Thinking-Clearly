@@ -1,6 +1,6 @@
 #Generates a connections Set using references for each chapter from the raw_data module
 
-def generator(chapters):
+def connector(chapters):
     connections = set()
 
     for i, chapter in enumerate(chapters):
